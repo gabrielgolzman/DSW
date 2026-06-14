@@ -17,8 +17,7 @@ const BOOKS = [
     publisher: "Minotauro",
     rating: 5,
     pageCount: 352,
-    cover:
-      "https://images.cdn1.buscalibre.com/fit-in/360x360/72/ff/72fff3c50a630f436ad42d881f7a4012.jpgg",
+    cover: "https://m.media-amazon.com/images/I/A1u39T1-f6L._SL1500_.jpg",
     isAvailable: false,
   },
   {
